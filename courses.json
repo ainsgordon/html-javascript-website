@@ -1,0 +1,228 @@
+{
+    "Courses": {
+    "0": {
+        "courses": {
+        "0": {
+            "data": {
+                "name": "The Ole Miss Golf Course",
+                "teeTimes": ["Monday 10AM-7PM", "Tuesday-Sunday 7:15AM-7PM"],
+                "bookingLink": "https://www.theolemissgolfcourse.com/bookteetimes",
+                "fees": ["General Public: $26-$39", "Faculty/Staff: $17-$29", "Alumni/Senior: $18-$31",
+                            "Students: $18-$31", "Juniors (17 and under): $13-$26"],
+                "cartFees": ["9 Holes: $14 per person", "18 Holes: $18 per person"],
+                "informationLink": "https://www.theolemissgolfcourse.com/golf/course-rates",
+                "contactInformation": "Phone number: (662)-234-4816",
+                "address": "147 Golf Club Dr., Oxford, MS 38655"
+            },
+            "location": "The Ole Miss Golf Course (Oxford, MS)"
+        },
+        "1": {
+            "data": {
+                "name": "Mallard Pointe Golf Course",
+                "teeTimes": ["Winter Hours (7 days a week): 8AM-4PM"],
+                "bookingLink": "http://www.mpgolfcourse.com/book-tee-times",
+                "fees": ["Monday-Wednesday: $35", "Thursday-Friday: $40", "Saturday-Sunday $45",
+                    "Senior Rates (Monday-Thursday): $27", "Monday-Wednesday: $20", "Thursday-Friday: $24", "Saturday-Sunday: $28"],
+                "cartFees": ["9 Holes: $14 per person", "18 Holes: $18 per person"],
+                "informationLink": "http://www.mpgolfcourse.com/rates",
+                "contactInformation": "Phone number: (662)-934-2400",
+                "address": "3037 State Park Rd., Sardis, MS 38666-3078"
+            },
+            "location": "Mallard Pointe Golf Course (Sardis, MS)"
+        },
+        "2": {
+            "data": {"name": "Kirkwood National Golf Club and Cottages",
+                "teeTimes": ["Monday-Saturday 8AM-6PM"],
+                "bookingLink":  "https://foreupsoftware.com/index.php/booking/19824/2553?_ga=2.168496546.2029653755.1664823786-1229485428.1664733830#/teetimes",
+                "fees": ["Monday-Wednesday: $45/18 Holes, $29/9 Holes", "Thursday-Friday: $50/18 Holes, $33/9 Holes", "Saturday-Sunday: $56/18 Holes, $38/9 Holes", "Replay: $20/18 Holes, $10/9 Holes", "Juniors (15 and under): Charge 9 Hole Rate, but must be playing with an adult", "Senior (Monday-Thursday, 62+ years old): $31"],
+                "cartFees": ["N/A"],
+                "informationLink": "https://www.kirkwoodgolf.com/golf/golf-rates",
+                "contactInformation": "Phone number: (662)-252-4888",
+                "address": "277 Palmer Ln., Holly Springs, MS 38635"},
+            "location": "Kirkwood National Golf Club and Cottages (Holly Springs, MS)"
+        },
+        "3": {
+            "data": {"name": "The Links at Oxford Golf Course",
+                "teeTimes": ["Monday-Friday: 9AM-6PM", "Saturday: 9AM-6PM", "Sunday: 1PM-5PM"],
+                "bookingLink": "https://www.golfnow.com/tee-times/facility/15910-the-links-at-oxford-golf-and-country-club/search#sortby=Date&view=Grouping&holes=3&timeperiod=3&timemax=42&timemin=10&players=0&pricemax=10000&pricemin=0&promotedcampaignsonly=false",
+                "fees": ["No information posted, but booking online varies from $15-$30"],
+                "cartFees": ["N/A"],
+                "informationLink": "#",
+                "contactInformation": "Phone number: (662)-234-4875",
+                "address": "44 PR 3151, Oxford, MS 38655"
+            },
+            "location": "The Links at Oxford Golf Course (Oxford, MS)"
+        }
+    }
+        
+    },
+    "1": {
+        "courses": {
+        "0": {
+            "data": {"name": "Mossy Oak Golf Course",
+                "teeTimes": ["Monday-Sunday: 8AM-5:30PM"],
+                "bookingLink": "https://www.golfnow.com/tee-times/facility/17339-mossy-oak-golf-club/search#sortby=Date&view=Grouping&holes=3&timeperiod=3&timemax=42&timemin=10&players=0&pricemax=10000&pricemin=0&promotedcampaignsonly=false",
+                "fees": ["Winter: $95", "Normal: $190", "Summer: $100", "Aerification: $60", "Junior (every season): $25"],
+                "cartFees": ["N/A"],
+                "informationLink": "https://www.mossyoakgolf.com/RATES.html",
+                "contactInformation": "Phone number: (662)-524-1000",
+                "address": "One Mossy Oak Dr., West Point, MS 39773"
+            },
+            "location": "Mossy Oak Golf Course (West Point, MS)"
+        },
+        "1": {
+            "data": {"name": "Old Waverly Golf Course",
+                "teeTimes": ["Monday: Closed", "Tuesday-Sunday: 7AM-6:30PM"],
+                "bookingLink": "https://www.oldwaverly.com/old-waverly",
+                "fees": ["Weekday: $160", "Weekend: $210"],
+                "cartFees": ["N/A"],
+                "informationLink": "https://www.oldwaverly.com/rates",
+                "contactInformation": "Phone number: (662)-494-6463",
+                "address": "One Magnolia Dr., West Point, MS 39773"},
+            "location": "Old Waverly Golf Course (West Point, MS)"
+        },
+        "2": {
+            "data": { "name": "Dancing Rabbit Golf Club",
+                "teeTimes": ["Sunday-Saturday: 7AM-7PM"],
+                "bookingLink": "https://dancingrabbitgolf.com/registration/",
+                "fees": ["Monday-Thursday: $80", "Friday, Saturday, & Sunday: $100", "Replay rate for 18 holes after morning round played: $40", 
+                    "Replay rate for 18 holes after morning round played: $40", "Off Season Golf Rates: $60-$80"],
+                "cartFees": ["N/A"],
+                "informationLink": "#",
+                "contactInformation": "Phone number: (601)-663-0011",
+                "address": "1341 MS-16, Philadelphia, MS 39350"}, 
+            "location": "Dancing Rabbit Golf Club (Philadelphia, MS)"
+        },
+        "3": {
+            "data": {"name": "Pearl Municipal Golf Course",
+                "teeTimes": ["Sunday-Saturday: 7AM-7PM"],
+                "bookingLink": "https://www.cityofpearl.com/live/parks-and-recreation/golf/",
+                "fees": ["Monday-Friday: $27/18 Holes, $19/9 Holes", "Weekend: $30/18 Holes, $$23/9 Holes", "Walking: $11/Weekday, $14/Weekend"],
+                "cartFees": ["N/A"],
+                "informationLink": "#",
+                "contactInformation": "Phone number: (601)-932-2262",
+                "address": "2420 Old Brandon Rd., Pearl, MS 39208"},
+            "location": "Pearl Municipal Golf Course (Pearl, MS)"
+        }
+    }
+
+    },
+    "2": {
+        "courses": {
+        "0": {
+            "data": {"name": "Fallen Oak Golf Course",
+                "teeTimes": ["Monday-Sunday: 9AM-5:30PM"],
+                "bookingLink": "#",
+                "fees": ["No specifics listed, varies from $200-$300"],
+                "cartFees": ["N/A"],
+                "informationLink": "https://beaurivage.mgmresorts.com/en/amenities/golf.html",
+                "contactInformation": "Phone number: (877)-805-4657",
+                "address": "24400 Highway 15, Saucier, MS 39574"},
+            
+            "location": "Fallen Oak Golf Course (Saucier, MS)" 
+        },
+        "1": {
+            "data": {
+                "name": "The Preserve Golf Course",
+                "teeTimes": ["Monday: Closed", "Tuesday-Sunday: 7AM-7PM"],
+                "bookingLink": "#",
+                "fees": ["7AM-3PM: $150", "After 3PM: $130", "Practice fee: $40 (includes balls and water)"],
+                "cartFees": ["N/A"],
+                "informationLink": "https://www.preservegc.com/sites/courses/template.asp?id=2293&page=125977",
+                "contactInformation": "Phone number: (228)-386-2500",
+                "address": "8901 Hwy. 57 North, Vancleave, MS 39565"},
+            "location": "The Preserve Golf Course (Vancleave, MS)"
+        },
+        "2": {
+            "data": {
+                "name": "Grand Bear Golf Course",
+                "teeTimes": ["Monday-Sunday: 7AM-5PM"],
+                "bookingLink": "#",
+                "fees": ["Not a lot of information available, averages about $100/2 people"],
+                "cartFees": ["N/A"],
+                "informationLink": "https://grandbeargolf.com/book-a-tee-time/",
+                "contactInformation": "Phone number: (228)-265-9363",
+                "address": "12040 Grand Way Blvd.,  Saucier, MS 39574"
+            },
+            "location": "Grand Bear Golf Course (Saucier, MS)"
+        },
+        "3": {
+            "data": {
+            "name": "Shell Landing Golf Course",
+            "teeTimes": ["Monday-Sunday: 6:30AM-5PM"],
+            "bookingLink": "https://foreupsoftware.com/index.php/booking/21938/9378#/teetimes",
+            "fees": ["7AM-7:54AM: $79", "Morning: (Mon-Thurs) $79, (Fri-Sun) $89", "Afternoon (1PM): (Mon-Thurs) $69, (Fri-Sun) $75", "Late afternoon (3PM): (Mon-Thurs) $55, (Fri-Sun) $59"],
+            "cartFees": ["N/A"],
+            "informationLink": "#",
+            "contactInformation": "Phone number: (228)-497-5683",
+            "address": "3499 Shell Landing Blvd., Gautier, MS 39553"
+            },
+            "location": "Shell Landing Golf Course (Gautier, MS)"
+        } 
+
+    }
+       
+       
+    },
+    "3": {
+        "courses": {
+        "0": {
+            "data": {
+            "name": "The Links at Galloway",
+            "teeTimes": ["Monday-Sunday: 7AM-6PM"],
+            "bookingLink": "https://foreupsoftware.com/index.php/booking/19879/2810#/teetimes",
+            "fees": ["18 Holes: $18 (Monday-Thursday), $27 (Friday-Sunday)", "9 Holes: $10 (Monday-Thursday), $14 (Friday-Sunday)", "Juniors, 18 Holes: $11 (Monday-Thursday), $27 (Friday-Sunday)", "Juniors, 9 Holes: $6 (Monday-Thursday), $14 (Friday-Sunday)", "Seniors, 18 Holes: $11 (Monday-Thursday), $27 (Friday-Sunday)", "Seniors, 9 Holes: $6 (Monday-Thursday), $14 (Friday-Sunday)"],
+            "cartFees": ["18 Holes: $20 per player", "9 Holes: $10 per player"],
+            "informationLink": "https://memphispubliclinks.com/galloway/",
+            "contactInformation": "Phone number: (901)-576-4260",
+            "address": "3815 Walnut Grove Rd., Memphis, TN 38111"
+            },
+            "location": "The Links at Galloway (Memphis, TN)"
+
+        },
+        "1": {
+            "data": {
+            "name": "Overton Park 9 Golf Course",
+            "teeTimes": ["Monday: Closed", "Tuesday-Sunday: 7AM-5PM"],
+            "bookingLink": "https://foreupsoftware.com/index.php/booking/19884/2815#/teetimes",
+            "fees": ["9 Holes: $10", "Juniors: $0", "Seniors: $7"],
+            "cartFees": ["$10 per player"],
+            "informationLink": "https://memphispubliclinks.com/overton/",
+            "contactInformation": "Phone number: (901)-305-2604",
+            "address": "2080 Poplar Ave., Memphis, TN 38104"
+            },
+            "location": "Overton Park 9 Golf Course (Memphis, TN)"
+        },
+        "2": {
+            "data": {
+            "name": "Cherokee Valley Golf Club",
+            "teeTimes": ["Monday-Friday: 7:30AM-6:30PM", "Saturday-Sunday: 6:45AM-6:30PM"],
+            "bookingLink": "https://foreupsoftware.com/index.php/booking/20219/4014#/teetimes",
+            "fees": ["Open-11AM: $30 (Monday-Thursday), $35 (Friday)", "After 11AM: $30 (Monday-Thursday), $30 (Friday)", "9 Holes: $20 (Monday-Thursday), $20 (Friday)", "(Weekend) Open-10AM: $59/18 Holes, $35/9 Holes", "(Weekend)10AM-1PM: $49/18 Holes, $30/9 Holes", "(Weekend) After 1PM: $39/18 Holes, $26/9 Holes"],
+            "cartFees": ["N/A"],
+            "informationLink": "#",
+            "contactInformation": "Phone number: (662)-893-444",
+            "address": "6635 Crumpler Blvd., Olive Branch, MS 38654"
+            },
+            "location": "Cherokee Valley Golf Club (Olive Branch, MS)"
+        },
+        "3": {
+            "data": {
+            "name": "The Links at Audobon",
+            "teeTimes": ["Monday-Sunday: 7AM-6:30PM"],
+            "bookingLink": "https://foreupsoftware.com/index.php/booking/19880/2811#/teetimes",
+            "fees": ["18 Holes: $17 (Monday-Thursday), $22 (Friday-Sunday)", "9 Holes: $10 (Monday-Thursday), $12 (Friday-Sunday)", "Juniors, 18 Holes: $11 (Monday-Thursday), $27 (Friday-Sunday)", "Juniors, 9 Holes: $0 (Monday-Thursday), $22 (Friday-Sunday)", "Seniors, 18 Holes: $11 (Monday-Thursday), $27 (Friday-Sunday)", "Seniors, 9 Holes: $10 (Monday-Thursday), $22 (Friday-Sunday)"],
+            "cartFees": ["18 Holes: $20 per player", "9 Holes: $10 per player"],
+            "informationLink": "https://memphispubliclinks.com/galloway/",
+            "contactInformation": "hone number: (901)-636-0706",
+            "address": "4160 Park Ave., Memphis, TN 38117"
+            },
+            "location": "The Links at Audobon (Memphis, TN)"
+        }
+    }
+    }
+    
+    
+    
+}
+}

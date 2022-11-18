@@ -1,0 +1,64 @@
+{
+    "NM": {
+        "0": {
+            "name": "The Ole Miss Golf Course",
+            "location": "Oxford, MS"
+        },
+        "1": {
+            "name": "Mallard Point Golf Course",
+            "location": "Sardis, MS"
+        },
+        "2": {
+            "name": "Kirkwood National Golf Club and Cottages",
+            "location": "Holly Springs, MS"
+        },
+        "3": {
+            "name": "The Links Golf Course",
+            "location": "Oxford, MS"
+        },
+        "4": {
+            "name": "Southaven Golf Center",
+            "location": "Southaven, MS"
+        }
+    },
+    "CM": {
+        "0": {
+            "name": "Mossy Oak Golf Course",
+            "location": "West Point, MS"
+        },
+        "1": {
+            "name": "Old Waverly Golf Course",
+            "location": "West Point, MS"
+        },
+        "2":{
+            "name": "Dancing Rabbit Golf Course",
+            "location": "Philadelphia, MS"
+        },
+        "3": {
+            "name": "Pearl Municipal Golf Course",
+            "location": "Pearl, MS"
+        }   
+    },
+    "SM": {
+        "0": {
+            "name": "Fallen Oak Golf Course",
+            "location": "Saucier, MS" 
+        },
+        "1": {
+            "name": "The Preserve Golf Course",
+            "location": "Vancleave, MS"
+        },
+        "2": {
+            "name": "Grand Bear Golf Course",
+            "location": "Saucier, MS"
+        },
+        "3": {
+            "name": "Shell Landing Golf Course",
+            "location": "Gautier, MS"
+        },
+        "4": {
+            "name": "Bridges at Hollywood Casino Golf Course",
+            "location": "Bay St. Louis, MS"
+        }
+    }
+}
